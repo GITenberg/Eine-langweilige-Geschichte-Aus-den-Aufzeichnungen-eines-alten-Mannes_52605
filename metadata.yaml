@@ -1,0 +1,40 @@
+_repo: Eine-langweilige-Geschichte-Aus-den-Aufzeichnungen-eines-alten-Mannes_52605
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Röhl, Hermann
+    aliases:
+    - Rohl, Hermann
+    - Röhl, H. (Hermann)
+    gutenberg_agent_id: '36296'
+    url: http://www.gutenberg.org/2009/agents/36296
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tschechow, Anton
+    - Chekov, Anton Pavlovich
+    - Tchekhoff, Anton
+    - Чехов, Антон Павлович
+    - Tshehov, Anton
+    - Tchekhov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: 'Translation of: Скучная история.'
+gutenberg_issued: '2016-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52605'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into German'
+- GITenberg
+title: 'Eine langweilige Geschichte: Aus den Aufzeichnungen eines alten Mannes'
+url: http://www.gutenberg.org/ebooks/52605
